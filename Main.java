@@ -13,7 +13,6 @@ public class Main {
         User mary = new User("url2", "maryMary", "Mary", "Bob", "mary@yahoo.com");
         User joe = new User("url", "JoeJo", "Joe", "Louis", "joe@hockey.com");
 
-        //todo print this array list and correlate a # for each user
         ArrayList<User>userList = new ArrayList<>();
         userList.add(john);
         userList.add(mary);
